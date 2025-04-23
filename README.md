@@ -15,7 +15,6 @@ A basic Java-based online auction system where users can register as sellers or 
 
 📁 Tech Stack:
 - Java (Core + GUI)
-- HTML/CSS for frontend layout
 - File Handling (users.txt, items.txt)
 
 🧪 How to Run:
